@@ -1,0 +1,4 @@
+{
+    "moduleFileExtensions": ["js", "jsx", "ts", "tsx"],
+    "moduleDirectories": ["node_modules", "functions"]
+}

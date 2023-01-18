@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "setup": "faasd-scripts/setup.sh",
+    "login": "faasd-scripts/login.sh",
+    "new": "faasd-scripts/new.sh",
+    "up": "faasd-scripts/up.sh",
+    "web": "faasd-scripts/web.sh",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
